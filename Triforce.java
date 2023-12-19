@@ -20,7 +20,6 @@ public class Triforce {
 			//top triangle
 			for (int a = 0; a < height - 1; a++) {
 				for (int b = 1; b < height*2 - a; b++) { //left side spaces
-					//System.out.print(" ");
 					System.out.print(" ");
 				}
 
@@ -37,7 +36,6 @@ public class Triforce {
 
 			//last line (----)
 			for (int d = 0; d < height; d++) {
-				//System.out.print(" ");
 				System.out.print(" ");
 			}
 

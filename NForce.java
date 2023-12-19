@@ -60,11 +60,7 @@ public class NForce {
 			}
 		}
 
-		//TriangleBase = (height-1)*2 or a*2
-		//smallTriangleBase = (height-1)*2
-
 		System.out.print("\\");
-
 
 		System.out.println();
 		}
